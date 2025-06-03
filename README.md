@@ -27,7 +27,7 @@ docker build --build-arg NAME=Kelechi -t hello-name .
 docker run hello-name
 ```
 
-####✅ Expected Output
+#### ✅ Expected Output
 ```bash
 Hello, Kelechi!
 ```
