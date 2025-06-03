@@ -1,6 +1,6 @@
 # Dockerfile Challenge
 
-This is a solution to the [roadmap.sh Dockerfile challenge](https://roadmap.sh) that involves creating a basic Docker image. When the container runs, it prints a message to the console and exits.
+This is a solution to the [roadmap.sh Dockerfile challenge](https://roadmap.sh/projects/basic-dockerfile) that involves creating a basic Docker image. When the container runs, it prints a message to the console and exits.
 
 ## 🐳 Objective
 
